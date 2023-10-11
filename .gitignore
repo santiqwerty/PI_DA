@@ -1,3 +1,5 @@
 gpt.md
 report.html
 .vscode/
+data/*.csv
+data/*.parquet
