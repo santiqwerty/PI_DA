@@ -24,13 +24,6 @@ El EDA se llevó a cabo en un notebook de Jupyter, donde se documentaron detalla
 ## Dashboard
 
 El dashboard interactivo creado proporciona una exploración detallada de los datos, permitiendo filtros y selecciones para desglosar la información. Se ha puesto especial énfasis en la elección de visualizaciones que faciliten la interpretación de los datos y proporcionen insights valiosos.
-
-## KPIs
-
-Se evaluó la tasa de fatalidad de la tripulación en los últimos 10 años comparada con la década anterior, con el objetivo de medir la mejora en la seguridad. Además, se propuso y evaluó un segundo KPI: evaluar la evolución de la cantidad de accidentes por región en lo que va del siglo. 
-
-Claro, puedo ayudarte a elaborar más sobre esta sección. Basándome en tu análisis y en la tendencia identificada en la tasa de fatalidad de la tripulación, aquí hay una posible continuación y expansión de tu sección de Análisis y Conclusiones:
-
 ---
 
 ## KPIs
