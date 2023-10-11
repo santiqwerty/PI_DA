@@ -23,7 +23,7 @@ El EDA se llevó a cabo en un notebook de Jupyter, donde se documentaron detalla
 
 ## Dashboard
 
-El dashboard interactivo creado proporciona una exploración detallada de los datos, permitiendo filtros y selecciones para desglosar la información. Se ha puesto especial énfasis en la elección de visualizaciones que faciliten la interpretación de los datos y proporcionen insights valiosos.
+El dashboard interactivo creado proporciona una exploración detallada de los datos, permitiendo filtros y selecciones para desglosar la información. Se ha puesto especial énfasis en la elección de visualizaciones que faciliten la interpretación de los datos y proporcionen insights valiososos y proporcionen insights valiosos.
 ---
 
 ## KPIs
